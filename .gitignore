@@ -1,0 +1,8 @@
+node_modules
+cloudsql
+firebase
+test
+.gcloudignore
+app.yaml
+cloud_sql_proxy
+nodejs-getting-started
